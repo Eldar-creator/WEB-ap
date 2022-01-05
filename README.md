@@ -1,3 +1,24 @@
+Description of my Web Application.
+       My application has been created not to forget something which we cannot keep in mind. In my app a person can create a notation and save it to remember, after doing that action, person can delete the notation .It is useful for old people , who has some problems with their memory due do the age. Also my app can be used by young boys or girls who just do not want remember all things in the head.
+      For example :you planned a meeting tomorrow at 15:00 pm , but you are not able to keep in your mind, so you can just use my app and write down that tomorrow you have a meeting at 15:00 pm. When meeting ends , you can delete that note.
+
+Link to my Web Application: https://react-eldar7.web.app/
+
+Link to my video presentation on YouTube: https://www.youtube.com/watch?v=f_mqXKIOO64
+
+Screenshots you can see among other files in the branch "master"
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
