@@ -6,6 +6,8 @@ Link to my Web Application: https://react-eldar7.web.app/
 
 Link to my video presentation on YouTube: https://www.youtube.com/watch?v=f_mqXKIOO64
 
+Link to the video review on YouTube https://youtu.be/fwrYjOAZvkk (2 review in 1 video)
+
 Screenshots you can see among other files in the branch "master"
 
 
